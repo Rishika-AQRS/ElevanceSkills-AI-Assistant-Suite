@@ -1,0 +1,9 @@
+.env
+__pycache__/
+venv/
+data/
+vector_db/
+arxiv_subset/
+*.pkl
+*.index
+.DS_Store

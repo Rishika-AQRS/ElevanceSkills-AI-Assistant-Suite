@@ -1,0 +1,16 @@
+
+venv/
+.env
+
+__pycache__/
+*.pyc
+
+.faiss/
+*.faiss
+*.pkl
+
+.streamlit/
+
+.DS_Store
+artifacts/
+embeddings/

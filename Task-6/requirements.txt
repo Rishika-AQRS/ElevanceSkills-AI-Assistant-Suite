@@ -1,0 +1,8 @@
+streamlit
+langdetect
+deep-translator
+numpy
+sciekit-learn
+pandas
+faiss-cpu
+vaderSentiment
