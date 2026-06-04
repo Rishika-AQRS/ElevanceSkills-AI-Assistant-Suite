@@ -4,6 +4,44 @@ A comprehensive multi-feature AI platform developed as part of the ElevanceSkill
 
 ---
 
+# 🚀 Live Deployment
+
+The AI Assistant Suite has been successfully deployed on Streamlit Cloud and is publicly accessible at:
+
+https://elevanceskills-ai-assistant-suite-kjmptzbmbjkzbgy8gvcdfr.streamlit.app/
+
+## Features
+
+* Task 1: Knowledge Base Chatbot
+* Task 2: Language Translation Assistant
+* Task 3: Health Topics QA System
+* Task 4: Research Paper Recommendation System
+* Task 5: Customer Support Assistant
+* Task 6: Multilingual Support Chatbot
+
+### Tech Stack
+
+* Python
+* Streamlit
+* LangChain
+* Google Gemini API
+* FAISS Vector Database
+* Sentence Transformers
+* Hugging Face Models
+
+### Deployment Status
+
+✅ Successfully deployed on Streamlit Cloud
+
+✅ All task modules integrated into a single application
+
+✅ API keys configured through Streamlit Secrets
+
+✅ Vector databases and artifacts uploaded and accessible
+
+✅ Publicly accessible via web browser
+
+
 ## 🚀 Project Overview
 
 The AI Assistant Suite combines six intelligent chatbot systems into a unified platform. Each module is designed to solve a specific real-world problem while showcasing modern AI technologies such as LangChain, FAISS, Google Gemini, Sentence Transformers, and Streamlit.
